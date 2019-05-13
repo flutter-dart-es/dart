@@ -1,0 +1,6 @@
+
+// Función main
+main() {
+
+  
+}
